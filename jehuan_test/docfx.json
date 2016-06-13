@@ -34,7 +34,6 @@
     "template": [
       "op.html"
     ],
-    "dest": "jehuan_test",
-    "markdownEngineName": "opdfm"
+    "dest": "jehuan_test"
   }
 }
