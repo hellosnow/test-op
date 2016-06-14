@@ -7,7 +7,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "jehuan_sandbox/**"
+          "jehuan_test/**"
         ],
         "src": null,
         "dest": null
@@ -17,11 +17,11 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg","**/*.json"
         ],
         "exclude": [
           "**/obj/**",
-          "jehuan_sandbox/**"
+          "jehuan_test/**"
         ],
         "src": null,
         "dest": null
@@ -34,6 +34,6 @@
     "template": [
       "op.html"
     ],
-    "dest": "jehuan_sandbox"
+    "dest": "jehuan_test"
   }
 }
