@@ -45,11 +45,9 @@
         "provisioningErrors": {
           "type": "array",
           "items": {
-            "schema": {
               "$ref": "#/definitions/ProvisioningError"
-            }
           },
-          "readOnly": "true"
+          "readOnly": true
         }
       }
     },
@@ -58,10 +56,9 @@
         "errorDetail": {
           "type": "array",
           "items": {
-            "schema": {
               "$ref": "#/definitions/contact"
-            }
-          }
+          },
+          "readOnly": true
         }
       }
     }
