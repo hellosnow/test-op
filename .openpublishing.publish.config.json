@@ -19,7 +19,7 @@
     {
       "docset_name": "jehuan_test_docs",
       "build_source_folder": "jehuan_sandbox",
-      "build_output_subfolder": "jehuan_sandbox",
+      "build_output_subfolder": "jehuan_sandbox2",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
